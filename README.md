@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahbafarag&label=Profile%20views&color=0e75b6&style=flat" alt="wahbafarag" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahbafarag" alt="wahbafarag" /></a> </p>
-
 - 🔭 I’m currently working on **Improving my backend skills**
 
 - 🌱 I’m currently learning **Nestjs ,Nodejs ,Express**
