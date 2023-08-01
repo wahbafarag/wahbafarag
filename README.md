@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahbafarag&label=Profile%20views&color=0e75b6&style=flat" alt="wahbafarag" /> </p>
 
-- 🔭 I’m currently working on **Improving my backend skills**
 
 - 🌱 I’m currently learning **Nestjs ,Nodejs ,Express**
 
