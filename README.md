@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahbafarag&label=Profile%20views&color=0e75b6&style=flat" alt="wahbafarag" /> </p>
 
 
-- 🌱 I’m currently learning **Nestjs ,Nodejs ,Express**
+- 🌱 I’m currently learning **Nodejs , Express , Nestjs**
 
 - 💬 Ask me about **Nodejs ,ExpressJS ,Nestjs**
 
