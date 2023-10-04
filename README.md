@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Nodejs , Express , Nestjs**
+- 🌱 I’m currently learning **Nodejs , Express , Nestjs , Mongoose , TypeOrm**
 
 - 💬 Ask me about **Nodejs ,ExpressJS ,Nestjs**
 
