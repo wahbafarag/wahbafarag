@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nodejs , Express , Nestjs , Mongoose **
 
-- 💬 Ask me about **Nodejs ,ExpressJS ,Nestjs ,GCP**
+- 💬 Ask me about **Nodejs ,ExpressJS ,Nestjs ,GCP ,Docker ,Docker-Compose**
 
 - 📫 How to reach me **wahba.farag01@gmail.com**
 
