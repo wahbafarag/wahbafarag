@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **Nodejs , Express , Nestjs , Mongoose , TypeOrm**
+- 🌱 I’m currently learning **Nodejs , Express , Nestjs , Mongoose **
 
-- 💬 Ask me about **Nodejs ,ExpressJS ,Nestjs**
+- 💬 Ask me about **Nodejs ,ExpressJS ,Nestjs ,GCP**
 
 - 📫 How to reach me **wahba.farag01@gmail.com**
 
