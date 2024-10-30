@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Nodejs , Express , Nestjs , Mongoose **
+- 🌱 I’m currently learning ** Nodejs , Express , Nestjs , MongoDB , PostgreSQL , GCP **
 
 - 💬 Ask me about **Nodejs ,ExpressJS ,Nestjs ,GCP ,Docker ,Docker-Compose**
 
